@@ -1,0 +1,7 @@
+*~
+*.jar
+
+nbactions.xml
+
+target/
+assembly/
